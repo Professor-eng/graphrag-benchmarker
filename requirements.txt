@@ -3,10 +3,10 @@ pyTigerGraph==1.7.0
 google-genai==0.7.0
 google-generativeai==0.8.3
 chromadb==0.5.3
-pandas==2.2.2
-numpy==1.26.4
+pandas>=2.0.0
+numpy>=1.24.0
 python-dotenv==1.0.1
-protobuf==4.25.3
+protobuf==3.20.3
 opentelemetry-api==1.24.0
 opentelemetry-sdk==1.24.0
 opentelemetry-exporter-otlp-proto-grpc==1.24.0
